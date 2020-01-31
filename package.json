@@ -1,12 +1,21 @@
 {
   "name": "stylelint-html-formatter",
   "version": "1.0.0",
-  "description": "",
+  "description": "Output HTML reports of stylelint results",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucasscesar/stylelint-html-formatter"
   },
-  "keywords": [],
-  "author": "",
+  "homepage": "https://github.com/lucasscesar/stylelint-html-formatter#readme",
+  "keywords": [
+    "stylelint",
+    "html",
+    "formatter",
+    "reporter",
+    "report"
+  ],
+  "author": "Lucas Cesar Ferreira",
   "license": "ISC"
 }
